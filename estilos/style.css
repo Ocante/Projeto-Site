@@ -3,11 +3,11 @@
     font-size: 16px;
 }
 body{
-    background-color: rgb(165, 104, 223);
+    background-color: rgba(104, 132, 223, 0.795);
 }
 
 main{
-    background-color: white;
+    background-color: rgba(189, 47, 255, 0.329);
     width: 500px;
     margin: auto;
     padding: 10px;
